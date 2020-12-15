@@ -3,7 +3,7 @@
 
 
 The codes are used for simultaneously reconstructing microstructure and material property fields of random heterogeneous materials with multiple phases.
-The codes are also suitable for strongly non-Gaussian random fieilds simulation.
+The codes are also suitable for strongly non-Gaussian random fields simulation.
 
 The codes are freely distributed as complementary material to the article: Y. Gao, Y. Jiao, Y. Liu, Ultra-efficient reconstruction of 3D microstructure 
 and distribution of properties of random heterogeneous materials containing multiple phases, Acta Mater. 204 (2021) 116526. 
