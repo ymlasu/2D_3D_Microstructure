@@ -10,11 +10,11 @@ and distribution of properties of random heterogeneous materials containing mult
 
 https://doi.org/https://doi.org/10.1016/j.actamat.2020.116526.
 
---------------------------------------------------------------------------
-Copyright Notice
-   Authors:   Yi Gao                    <ygao115@asu.edu>
-              Yongming Liu              <yongming.liu@asu.edu>    
-              Prognostic Analysis and Reliability Assessment Lab, Arizona State University.
-              
-              https://paralab.engineering.asu.edu/
---------------------------------------------------------------------------
+
+Copyright Notice:
+
+Authors:    Yi Gao                    ygao115@asu.edu
+            Yongming Liu              yongming.liu@asu.edu 
+            Prognostic Analysis and Reliability Assessment Lab, Arizona State University.
+            https://paralab.engineering.asu.edu/
+
